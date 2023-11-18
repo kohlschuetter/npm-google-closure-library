@@ -1,0 +1,24 @@
+# npm install google-closure-library
+# npm info google-closure-library
+
+google-closure-library@20230802.0.0 | Apache-2.0 | deps: none | versions: 97
+Google's common JavaScript library
+https://developers.google.com/closure/library/
+
+keywords: javascript, library, goog, closure
+
+dist
+.tarball: https://registry.npmjs.org/google-closure-library/-/google-closure-library-20230802.0.0.tgz
+.shasum: 41a80bc9fc8760e9b5e1628254c8cedb058dce66
+.integrity: sha512-h2lBEX2tjWwfR+dhFukGER15vKY+4cA3nRqwKSOsBdyizlOxTAHOWbEYiGnMoom3/SrVeQ5uG0eKsbxQ3wbsxA==
+.unpackedSize: 18.3 MB
+
+maintainers:
+- shicks <stephenhicks@gmail.com>
+- google-wombot <node-team-npm+wombot@google.com>
+- jameswr <jameswr@google.com>
+
+dist-tags:
+latest: 20230802.0.0  
+
+published 3 months ago by google-wombot <node-team-npm+wombot@google.com>
